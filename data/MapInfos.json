@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":2,"parentId":2,"scrollX":1398.8571428571427,"scrollY":745.7142857142857},
+{"id":2,"expanded":true,"name":"black screen","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"cutscenes","order":5,"parentId":0,"scrollX":1398.8571428571427,"scrollY":776.5714285714286},
+{"id":4,"expanded":false,"name":"Prefight","order":3,"parentId":0,"scrollX":1088,"scrollY":624},
+{"id":5,"expanded":false,"name":"arena","order":4,"parentId":0,"scrollX":1152,"scrollY":1192}
+]
